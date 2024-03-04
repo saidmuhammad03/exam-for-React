@@ -1,0 +1,71 @@
+{
+  "data":[
+   
+      {
+        "status": false,
+        "company": "Philippine Peso",
+        "name": "Stokes",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/872.jpg",
+        "phone": "1-416-534-0598",
+        "id": "1"
+      },
+      {
+        "status": false,
+        "company": "Vatu",
+        "name": "Hagenes",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "phone": "1-956-593-1478 x98303",
+        "id": "2"
+      },
+      {
+        "status": false,
+        "company": "Solomon Islands Dollar",
+        "name": "Heller",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/968.jpg",
+        "phone": "(584) 887-4762",
+        "id": "3"
+      },
+      {
+        "status": false,
+        "company": "Canadian Dollar",
+        "name": "Upton",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/310.jpg",
+        "phone": "538.855.8973 x2599",
+        "id": "4"
+      },
+      {
+        "status": false,
+        "company": "Bhutanese Ngultrum",
+        "name": "Bauch",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/466.jpg",
+        "phone": "1-405-564-8432 x21353",
+        "id": "5"
+      },
+      {
+        "status": false,
+        "company": "Czech Koruna",
+        "name": "Rodriguez",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1214.jpg",
+        "phone": "(236) 820-7780 x855",
+        "id": "6"
+      },
+      {
+        "status": false,
+        "company": "Lek",
+        "name": "Hegmann",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+        "phone": "573.267.9817 x086",
+        "id": "7"
+      },
+      {
+        "status": false,
+        "company": "Saint Helena Pound",
+        "name": "O'Reilly",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/428.jpg",
+        "phone": "648-340-7008",
+        "id": "8"
+      }
+    ]
+  
+  
+}

@@ -1,0 +1,114 @@
+{
+  "navbar": {
+    "doctors": "Doctors",
+    "services": "Services",
+    "diagnos": "Diagnos",
+    "tests": "Tests",
+    "stock": "Stock",
+    "patients": "Patients",
+    "clinic": "Clinic",
+    "reviews": "Reviews",
+    "contacts": "Contacts"
+  },
+  "start": {
+    "one": "A network of clinics in the Tomsk region",
+    "two": "Version for the visually impaired",
+    "btnText": "Make an Appointment"
+  },
+  "first": {
+    "text1": "Meet our experienced dedicated to care.",
+    "text2": "Discover healthcare professionals, offering compassionate care, expertise in various specialties, and personalized treatment plans for optimal health outcomes.",
+    "btnMore": "Learn More >"
+  },
+  "second": {
+    "text1": "A little about us",
+    "text2": "Their collaboration of the medical case before them. In the bustling hospital corridor, Dr. Rodriguez and Dr. Patel huddled over an X-ray image displayed on a tablet. Their expressions were a mix of concern and concentration as they analyzed the intricate details. Dr. Rodriguez, with her dark hair pulled back in a neat bun, pointed to a specific area on the screen, I think we might need to consider a closer look at this region here. It seems to be showing some abnormality. Dr. Patel, her eyes focused intently on the image, nodded in agreement, Yes, I see what you mean. Let's schedule a follow-up MRI to get a clearer picture."
+  },
+  "third": {
+    "text": "Areas of our work",
+    "text2": "All Destinations",
+    "a1": "Gynecology",
+    "a2": "Urology",
+    "a3": "Otolaryngology",
+    "a4": "Neurology",
+    "btn": "Learn more"
+  },
+  "fourth": {
+    "text1": "Our Experts",
+    "text2": "Ivanov Ivan Ivanovich",
+    "text3": "Urologist",
+    "btn": "Making an appointment",
+    "btn2": "All specialists"
+  },
+  "five": {
+    "text1": "-20% discount on MRI",
+    "text2": "Hurry of the great ! Get a -20%  on MRI and be  with evident complexities.  and high-quality complexities with .Complexities make an  now for a high- medical complexities at an attractive price!",
+    "text3": "The promotion is valid until "
+  },
+  "six": {
+    "text1": "Hospital",
+    "text2": "Well-equipped operating theatres",
+    "text3": "Full control over the condition of patients",
+    "text4": "Comfort and care after surgery"
+  },
+  "seven": {
+    "a1": "Our Equipment",
+    "p1": "MRI",
+    "p2": "1.5 Tesla / up to 200 kg",
+    "p3": "3D/4D Study Recording",
+    "p4": "MRI mammography",
+    "p5": "Whole body MRI in 1.5 hours",
+    "p6": "MRI of the joints"
+  },
+  "eight": {
+    "p1": "Our Advantages"
+  },
+  "nine": {
+    "p1": "Professionalism",
+    "p2": "Wide range of services",
+    "p3": "State-of-the-art equipment",
+    "p4": "High level of service",
+    "p5": "Ambulance & Home Assistance Service",
+    "p6": "Internal and Surgical Hospitals",
+    "p7": "High level of service",
+    "p8": "Ambulance & Home Assistance Service",
+    "p9": "Internal and Surgical Hospitals",
+    "p10": "The high professionalism of our doctors is the key The high professionalism of our doctors is the key to high-quality and reliable medical care in our medical center. Our team of specialists has in-depth knowledge and extensive experience, guaranteeing each patient a high level of medical care. to high-quality and reliable medical care in our medical center.",
+    "p11": "Patients"
+  },
+  "ten": {
+    "p1": "Our Partners",
+    "p2": "Our Licenses"
+  },
+  "last": {
+    "p1": "Contact Us",
+    "p2": "Address",
+    "p3": "Tomsk, st. 79 Guards Division, 6",
+    "p4": "Telephone",
+    "p5": "Mail",
+    "p6": "Make an Appointment"
+  },
+  "footer1": {
+    "p1": "Moscva, st. Pushkina, d.43",
+    "p2": "Poshta@gmail.com",
+    "p3": "About the Clinic",
+    "p4": "Doctor",
+    "p5": "Patients",
+    "p6": "Services",
+    "p7": "Menu Item Name"
+  },
+  "page2": {
+    "p1": "Home >",
+    "p2": "Doctor"
+  },
+  "doc1": {
+    "p1": "Do you want us to call you back?",
+    "p2": "Leave a request and we will answer all your questions in detail!",
+    "p3": "Your full name",
+    "p4": "Telephone number",
+    "p5": "Ivanov Ivan Ivanovich",
+    "p6": "Request a call",
+    "p7": "By clicking on the Request a call button, you agree to ",
+    "p8": " Privacy Policy"
+  }
+}
